@@ -10,7 +10,7 @@ public class Main {
             System.out.println("Nhâp vào số phần tử của mảng");
             n = scanner.nextInt();
         } while (n < 0);
-
+//
         int array[] = new int[n];
 
         System.out.println("Nhập các phần tử vào mảng : ");
